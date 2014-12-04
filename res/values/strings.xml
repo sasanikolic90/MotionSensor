@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motion Sensor</string>
+    <string name="motion_detection_title">Motion Detection</string>
+    <string name="launch_button_text">Launch</string>
+    <string name="configure_button_text">Configure</string>
+    <string name="option_description">option description</string>
+    <string name="option_title">option title</string>
+    <string name="usermail">Your e-mail</string>
+    <string name="difference">Percentage of different pixels (from 1 &#8211; 99, default 3)</string>
+    <string name="threshold">Threshold in percentage (from 1 &#8211; 99, default 10)</string>
+    <string name="delay">Delay after motion is detected (in seconds)</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+</resources>
